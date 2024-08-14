@@ -3,6 +3,8 @@
 
 RestGist is a Restaurant POS and Back Office ERP suite an ideal software solution for Hospitality Industry that can be used at restaurants. RestGist is ASP.Net based ERP for managing complete operations of Restaurants thru online/ offline. The most time consuming and tedious job is to take orders with paper pan, it takes so much of your captions time, with RestGist, you do not have to worry about taking orders. Your Captions will be loaded with the Tabs, and the moment they place order, at the same time the KOT will automatically be printed in your kitchen with details of order, time, No of Pax, Priority, and also with the notification of packing, take away or home delivery. Once the order is ready in Kitchen, it will also notify the caption, as a notification message on tab that the order of table no is ready.
 
+<img src="https://www.aspscriptsonline.com/wp-content/uploads/2016/06/restgist_2.jpg">
+
 <b>Online Restaurant Software has the following key features:</b>
 
 <ul>
